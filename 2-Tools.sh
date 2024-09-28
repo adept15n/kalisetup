@@ -14,5 +14,3 @@ git clone https://github.com/carlospolop/privilege-escalation-awesome-scripts-su
 #### From Tools.txt
 curl -so Tools.txt https://raw.githubusercontent.com/adept15n/kalisetup/refs/heads/main/Tools.txt
 sudo apt install $(cat Tools.txt | tr "\n" " ") -y
-
-done
