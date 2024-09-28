@@ -1,0 +1,4 @@
+tmux
+flameshot
+sublime-text
+tldr
