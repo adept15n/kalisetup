@@ -3,7 +3,7 @@
 #### Download tool list
 echo -e "\e[1;34m--------------------------------------------------\e[0m"
 echo Downloading tools list...
-curl -s https://raw.githubusercontent.com/adept15n/kalisetup/refs/heads/main/Tools.txt
+curl -so https://raw.githubusercontent.com/adept15n/kalisetup/refs/heads/main/Tools.txt
 
 #### Install tool
 echo "\e[1;34m--------------------------------------------------\e[0m"
