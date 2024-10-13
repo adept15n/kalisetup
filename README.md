@@ -12,5 +12,5 @@
 
 ### Usage
 ```bash
-for script in 1-Update.sh 2-Tools.sh 3-Prompt.sh; do curl -s https://raw.githubusercontent.com/adept15n/kalisetup/refs/heads/main/$script | bash; done
+for script in Update.sh Tools.sh Prompt.sh; do curl -s https://raw.githubusercontent.com/adept15n/kalisetup/refs/heads/main/$script | bash; done
 ```
